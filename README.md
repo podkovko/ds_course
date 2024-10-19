@@ -1,5 +1,3 @@
 # ds_course
 
-## Making first steps!
-
-TEST
+Road to figuring out what is Python

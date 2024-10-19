@@ -1,17 +1,17 @@
 # Проект 0. Угадай число
 
 ## Оглавление  
-[1. Описание проекта](.README.md#Описание-проекта)  
-[2. Какой кейс решаем?](.README.md#Какой-кейс-решаем)  
-[3. Краткая информация о данных](.README.md#Краткая-информация-о-данных)  
-[4. Этапы работы над проектом](.README.md#Этапы-работы-над-проектом)  
-[5. Результат](.README.md#Результат)    
+[1. Описание проекта](https://github.com/podkovko/ds_course/tree/main/python_8/guess_number_homework.README.md#Описание-проекта)  
+[2. Какой кейс решаем?](https://github.com/podkovko/ds_course/tree/main/python_8/guess_number_homework.README.md#Какой-кейс-решаем)  
+[3. Краткая информация о данных](https://github.com/podkovko/ds_course/tree/main/python_8/guess_number_homework.README.md#Краткая-информация-о-данных)  
+[4. Этапы работы над проектом](https://github.com/podkovko/ds_course/tree/main/python_8/guess_number_homework.README.md#Этапы-работы-над-проектом)  
+[5. Результат](https://github.com/podkovko/ds_course/tree/main/python_8/guess_number_homework.README.md#Результат)    
 [6. Выводы](.README.md#Выводы) 
 
 ### Описание проекта    
 Угадать загаданное компьютером число за минимальное число попыток.
 
-[к оглавлению](.README.md#Оглавление)
+[к оглавлению](https://github.com/podkovko/ds_course/tree/main/python_8/guess_number_homework.README.md#Оглавление)
 
 
 ### Какой кейс решаем?    
@@ -31,7 +31,7 @@
 ### Краткая информация о данных
 ....
   
-[к оглавлению](.README.md#Оглавление)
+[к оглавлению](https://github.com/podkovko/ds_course/tree/main/python_8/guess_number_homework.README.md#Оглавление)
 
 
 ### Этапы работы над проектом  
@@ -39,19 +39,21 @@
 2. V2: программа устанавливала любое случайное число, а потом уменьшали или увеличивали его на 1. Данный способ дал улучшенный результат.
 3. V3: программа использует метод половинного деления. Данный способ дал наилучшие результаты.
 
-[к оглавлению](.README.md#Оглавление)
+Более детально с эволюцией версий алгоритма можно ознакомиться с Jupyter ноутбуке [game.ipynb](https://github.com/podkovko/ds_course/blob/main/python_8/guess_number_homework/game.ipynb).
+
+[к оглавлению](https://github.com/podkovko/ds_course/tree/main/python_8/guess_number_homework.README.md#Оглавление)
 
 
 ### Результаты:  
 Нам удалось написать алгоритм, который угадывает число от 1 до 100 в среднем за 4 попытки.
 
-[к оглавлению](.README.md#Оглавление)
+[к оглавлению](https://github.com/podkovko/ds_course/tree/main/python_8/guess_number_homework.README.md#Оглавление)
 
 
 ### Выводы:  
 ....
 
-[к оглавлению](.README.md#Оглавление)
+[к оглавлению](https://github.com/podkovko/ds_course/tree/main/python_8/guess_number_homework.README.md#Оглавление)
 
 
 Если информация по этому проекту покажется вам интересной или полезной, то я буду очень вам благодарен, если отметите репозиторий и профиль ⭐️⭐️⭐️-дами
